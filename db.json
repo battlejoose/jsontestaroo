@@ -1,4 +1,4 @@
-"posts": [
+"posts": 
   {
     "title": "The Basics - Networking",
     "description": "Your app fetched this from a remote endpoint!",
@@ -10,4 +10,4 @@
       { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
     ]
   }
-]
+
